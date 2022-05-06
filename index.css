@@ -114,7 +114,13 @@ body {
     background-color: #fff;
     color: #3854A6;
     font-size: 2.2em;
+}
 
+.btn-font2 {
+    background-color: #fff;
+    color: #7990D2;
+    font-size: 2em;
+    text-align:center;
 }
 
 .card-background {
@@ -157,6 +163,12 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
 }
+
+.title-font5 {
+    color: #2d7786; 
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+  }
 
 .counter-background {
   background-image: url("https://static-mapetitemercerie.o10c.net/105415-thickbox_default/liberty-fabric-danjo-blue-x-10cm.jpg");
